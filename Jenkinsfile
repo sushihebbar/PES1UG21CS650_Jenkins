@@ -16,9 +16,9 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying...'
+                ech 'Deploying...'
                 // Add deployment commands here
-            // }
+            }
         }
     }
 
