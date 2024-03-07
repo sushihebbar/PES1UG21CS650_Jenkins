@@ -6,7 +6,7 @@ pipeline {
             steps {
                 echo 'Building...'
                 // Add build commands here
-            }
+            // }
         }
         stage('Test') {
             steps {
